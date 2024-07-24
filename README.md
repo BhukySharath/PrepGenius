@@ -51,4 +51,4 @@ The Student Study Portal is designed to help students organize their study mater
 ## Contact
  Sharath Bhukya - [bhukyasharath@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/BhukySharath/StudentPortal](https://github.com/BhukyShrath/PrepGenius)
+Project Link: [https://github.com/BhukySharath/PrepGenius](https://github.com/BhukyShrath/PrepGenius)
